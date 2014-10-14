@@ -1,0 +1,19 @@
+{
+  "name": "instantbuy-quickstart-nodejs",
+  "version": "1.0.0",
+  "description": "Sample code for the instantbuy API in Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Andreu",
+  "dependencies": {
+    "body-parser": "^1.9.0",
+    "express": "^4.9.7",
+    "jwt-simple": "^0.2.0"
+  },
+  "licenses" : [{
+    "type": "Apache",
+    "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+  }]
+}
