@@ -2,7 +2,8 @@
 
 ## Notes
 * This is not an official sample. This code is not affiliated with, endorsed, or sponsored by [Google](http://google.com).
-
+* The `server.js` is heavily based on [instantbuy_server.rb](https://github.com/googlewallet/instantbuy-quickstart-ruby/blob/master/instantbuy_server.rb) from  the [instantbuy-quickstart-ruby](https://github.com/googlewallet/instantbuy-quickstart-ruby) project.
+* The `index.html` is heavily based on [_index.html](https://github.com/googlewallet/instantbuy-quickstart-ruby/blob/master/_index.html) from  the [instantbuy-quickstart-ruby](https://github.com/googlewallet/instantbuy-quickstart-ruby) project.
 
 ## Prerequisites:
 
