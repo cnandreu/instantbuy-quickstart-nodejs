@@ -8,10 +8,10 @@
 ## Prerequisites:
 
 * You must have the following values from the [Google API console](https://code.google.com/apis/console/):
-	* MERCHANT_ID
-	* MERCHANT_SECRET
-	* MERCHANT_NAME
-	* CLIENT_ID
+	* `MERCHANT_ID`
+	* `MERCHANT_SECRET`
+	* `MERCHANT_NAME`
+	* `CLIENT_ID`
 * You must have [Node.js](http://nodejs.org/) installed. The sample was tested with `v0.10.29`. You can check the version with: `node -v`.
 
 ## Getting Started
